@@ -1,0 +1,9 @@
+{
+  "name": "status",
+  "version": "0",
+  "description": "something",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
